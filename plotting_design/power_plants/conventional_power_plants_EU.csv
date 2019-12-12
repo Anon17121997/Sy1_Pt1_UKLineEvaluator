@@ -1,0 +1,153 @@
+name,company,street,postcode,city,country,capacity,energy_source,technology,chp,commissioned,type,lat,lon,eic_code,energy_source_level_1,energy_source_level_2,energy_source_level_3,additional_info,comment,source
+CYCOFOS TV2,,,,,FR,62,Other or unspecified energy sources,,,2009,,43.42801,4.88652,17W100P100P0352E,Other or unspecified energy sources,,,,,RTE
+PROVENCE 4 BIOMASSE,,,,,FR,150,Biomass and biogas,,,,,43.42801,4.88652,17W100P100P03647,Renewable energy,Bioenergy,Biomass and biogas,,Commissioning year not reported due to duplicate entries,RTE
+CORDEMAIS 4,,,,,FR,580,Hard coal,Steam turbine,,,,47.27712,-1.88012,17W100P100P0236G,Fossil fuels,Hard coal,,,,RTE
+CORDEMAIS 5,,,,,FR,580,Hard coal,Steam turbine,,,,47.27712,-1.88012,17W100P100P0237E,Fossil fuels,Hard coal,,,,RTE
+EMILE HUCHET 6,,,,,FR,595,Hard coal,Steam turbine,,1981,,49.15412,6.7047,17W100P100P0343F,Fossil fuels,Hard coal,,,,RTE
+HAVRE 4,,,,,FR,580,Hard coal,Steam turbine,,,,49.47553,0.14711,17W100P100P0238C,Fossil fuels,Hard coal,,,,RTE
+PROVENCE 5,,,,,FR,595,Hard coal,Steam turbine,,1984,,46.46883,5.48957,17W100P100P03469,Fossil fuels,Hard coal,,,,RTE
+ARRIGHI 1,,,,,FR,125,Oil,,,,,48.79151,2.41593,17W100P100P0255C,Fossil fuels,Oil,,,,RTE
+ARRIGHI 2,,,,,FR,129,Oil,,,,,48.79151,2.41593,17W100P100P0256A,Fossil fuels,Oil,,,,RTE
+BRENNILIS 1,,,,,FR,85,Oil,,,,,48.35702,-3.87053,17W100P100P02586,Fossil fuels,Oil,,,,RTE
+BRENNILIS 2,,,,,FR,85,Oil,,,,,48.35702,-3.87053,17W100P100P0260J,Fossil fuels,Oil,,,,RTE
+BRENNILIS 3,,,,,FR,134,Oil,,,,,48.35702,-3.87053,17W100P100P0261H,Fossil fuels,Oil,,,,RTE
+CORDEMAIS 3,,,,,FR,0,Oil,,,,,47.27712,-1.88012,17W100P100P0250M,Fossil fuels,Oil,,,Commissioning year not reported due to duplicate entries,RTE
+DIRINON 1,,,,,FR,85,Oil,,,,,48.39036,-4.26373,17W100P100P0263D,Fossil fuels,Oil,,,,RTE
+DIRINON 2,,,,,FR,85,Oil,,,,,48.39036,-4.26373,17W100P100P02659,Fossil fuels,Oil,,,,RTE
+MONTEREAU 5,,,,,FR,185,Oil,,,,,48.38045,2.85108,17W100P100P0270G,Fossil fuels,Oil,,,,RTE
+MONTEREAU 6,,,,,FR,185,Oil,,,,,48.38045,2.85108,17W100P100P0271E,Fossil fuels,Oil,,,,RTE
+VAIRES 1,,,,,FR,181,Oil,,,,,48.87349,2.65533,17W100P100P02675,Fossil fuels,Oil,,,,RTE
+VAIRES 2,,,,,FR,179,Oil,,,,,48.87349,2.65533,17W100P100P02683,Fossil fuels,Oil,,,,RTE
+VAIRES 3,,,,,FR,182,Oil,,,,,48.87349,2.65533,17W100P100P02691,Fossil fuels,Oil,,,,RTE
+AMFARD14,,,,,FR,130,Natural gas,,,2004,,43.42801,4.88652,17W100P100P0353C,Fossil fuels,Natural gas,,,,RTE
+AMFARD15,,,,,FR,130,Natural gas,,,2004,,43.42801,4.88652,17W100P100P03493,Fossil fuels,Natural gas,,,,RTE
+BLENOD 5,,,,,FR,427,Natural gas,,,,,48.86959,6.08377,17W100P100P0243J,Fossil fuels,Natural gas,,,,RTE
+BOUCHAIN 7,,,,,FR,585,Natural gas,,,2017,,50.29774,3.31429,17W100P100P0244H,Fossil fuels,Natural gas,,,,RTE
+COMBIGOLFE,,,,,FR,425,Natural gas,,,2010,,43.41616,4.86974,17W100P100P0337A,Fossil fuels,Natural gas,,,,RTE
+CYCOFOS,,,,,FR,428,Natural gas,,,2009,,43.42801,4.88652,17W100P100P0351G,Fossil fuels,Natural gas,,,,RTE
+Croix-de-Metz,,,,,FR,413,Natural gas,,,2012,,48.69336,5.91468,17W100P100P0340L,Fossil fuels,Natural gas,,,,RTE
+DK6,,,,,FR,796,Natural gas,,,2005,,51.04628,2.31835,17W100P100P0350I,Fossil fuels,Natural gas,,,,RTE
+EMILE HUCHET 7,,,,,FR,413,Natural gas,,,2010,,49.15412,6.7047,17W100P100P0344D,Fossil fuels,Natural gas,,,,RTE
+EMILE HUCHET 8,,,,,FR,413,Natural gas,,,2010,,49.15412,6.7047,17W100P100P0345B,Fossil fuels,Natural gas,,,,RTE
+FR-GA-MORANT1,,,,,FR,401,Natural gas,,,2016,,46.27282,3.30095,17W100P100P0318E,Fossil fuels,Natural gas,,,,RTE
+GENNEVILLIERS 1,,,,,FR,203,Natural gas,,,,,48.93699,2.26144,17W100P100P02667,Fossil fuels,Natural gas,,,,RTE
+MARTIGUES PONTEAU 5,,,,,FR,465,Natural gas,,,,,43.35822,5.02112,17W100P100P0245F,Fossil fuels,Natural gas,,,,RTE
+MARTIGUES PONTEAU 6,,,,,FR,465,Natural gas,,,,,43.35822,5.02112,17W100P100P0246D,Fossil fuels,Natural gas,,,,RTE
+Pont-sur-Sambre,,,,,FR,412,Natural gas,,,2009,,50.22915,3.86807,17W100P100P0341J,Fossil fuels,Natural gas,,,,RTE
+SPEM,,,,,FR,435,Natural gas,,,2010,,47.30265,-2.14028,17W100P100P0334G,Fossil fuels,Natural gas,,,,RTE
+CHEYLAS,,,,,FR,485,Hydro,Pumped storage,,,,45.3846,6.00207,17W100P100P0273A,Renewable energy,Hydro,,,,RTE
+COCHE,,,,,FR,320,Hydro,Pumped storage,,,,45.49667,6.51038,17W100P100P02748,Renewable energy,Hydro,,,Commissioning year not reported due to duplicate entries,RTE
+GRAND MAISON,,,,,FR,1700,Hydro,Pumped storage,,2017,,45.20597,6.11719,17W100P100P02756,Renewable energy,Hydro,,,,RTE
+MONTEZIC,,,,,FR,910,Hydro,Pumped storage,,,,44.73766,2.64342,17W100P100P02772,Renewable energy,Hydro,,,,RTE
+REVIN,,,,,FR,808,Hydro,Pumped storage,,,,49.92556,4.61331,17W100P100P02780,Renewable energy,Hydro,,,,RTE
+SUPER BISSORTE,,,,,FR,742.3,Hydro,Pumped storage,,,,45.1803,6.5797,17W100P100P02764,Renewable energy,Hydro,,,,RTE
+ASTON,,,,,FR,104,Hydro,Run-of-river,,,,42.77668,1.67671,17W100P100P0315K,Renewable energy,Hydro,,,,RTE
+AVIGNON,,,,,FR,126,Hydro,Run-of-river,,1973,,43.97606,4.81721,17W100P100P0326F,Renewable energy,Hydro,,,,RTE
+BAIX LOGIS NEUF 1,,,,,FR,140,Hydro,Run-of-river,,1960,,44.67605,4.78827,17W100P100P0322N,Renewable energy,Hydro,,,,RTE
+BEAUCHASTEL,,,,,FR,198,Hydro,Run-of-river,,1963,,44.82397,4.81049,17W100P100P0321P,Renewable energy,Hydro,,,,RTE
+BOURG les VALENCE,,,,,FR,180,Hydro,Run-of-river,,1968,,44.96128,4.87221,17W100P100P0320R,Renewable energy,Hydro,,,,RTE
+CADEROUSSE,,,,,FR,156,Hydro,Run-of-river,,1975,,44.09606,4.72329,17W100P100P0325H,Renewable energy,Hydro,,,,RTE
+CHASTANG,,,,,FR,293,Hydro,Run-of-river,,,,45.15185,2.00985,17W100P100P0302T,Renewable energy,Hydro,,,,RTE
+COUESQUE,,,,,FR,119,Hydro,Run-of-river,,,,44.69609,2.58555,17W100P100P0313O,Renewable energy,Hydro,,,,RTE
+DONZERE MONDRAGON,,,,,FR,348,Hydro,Run-of-river,,1952,,44.30368,4.74217,17W100P100P0324J,Renewable energy,Hydro,,,,RTE
+FESSENHEIM,,,,,FR,175,Hydro,Run-of-river,,,,47.91466,7.57067,17W100P100P0303R,Renewable energy,Hydro,,,,RTE
+FR_LA-MAREGES-P,,,,,FR,150,Hydro,Run-of-river,,2018,,43.42801,4.88652,,Renewable energy,Hydro,,,,RTE
+FR_LA-STPIERRE-P,,,,,FR,122,Hydro,Run-of-river,,2018,,43.42801,4.88652,,Renewable energy,Hydro,,,,RTE
+GENISSIAT,,,,,FR,420,Hydro,Run-of-river,,1948,,46.05271,5.81285,17W100P100P0319C,Renewable energy,Hydro,,,,RTE
+GERSTHEIM,,,,,FR,140.5,Hydro,Run-of-river,,,,48.40385,7.72775,17W100P100P0310U,Renewable energy,Hydro,,,,RTE
+HERMILLON,,,,,FR,115.6,Hydro,Run-of-river,,,,45.28424,6.35799,17W100P100P0314M,Renewable energy,Hydro,,,,RTE
+KEMBS,,,,,FR,162.1,Hydro,Run-of-river,,2016,,47.65534,7.51959,17W100P100P0307J,Renewable energy,Hydro,,,,RTE
+MARCKOLSHEIM,,,,,FR,156.2,Hydro,Run-of-river,,,,48.15371,7.5898,17W100P100P0305N,Renewable energy,Hydro,,,,RTE
+MAREGES,,,,,FR,150,Hydro,Run-of-river,,1935,,45.39171,2.36446,17W100P100P0328B,Renewable energy,Hydro,,,,RTE
+MONTELIMAR,,,,,FR,295,Hydro,Run-of-river,,1957,,44.59281,4.72593,17W100P100P0323L,Renewable energy,Hydro,,,,RTE
+OTTMARSHEIM,,,,,FR,156,Hydro,Run-of-river,,,,47.77399,7.52246,17W100P100P0306L,Renewable energy,Hydro,,,,RTE
+PASSY,,,,,FR,104,Hydro,Run-of-river,,,,45.91642,6.72592,17W100P100P0316I,Renewable energy,Hydro,,,,RTE
+RANDENS,,,,,FR,124.2,Hydro,Run-of-river,,,,45.52711,6.31996,17W100P100P0312Q,Renewable energy,Hydro,,,,RTE
+RHINAU,,,,,FR,152,Hydro,Run-of-river,,2016,,48.28412,7.67728,17W100P100P0304P,Renewable energy,Hydro,,,,RTE
+SAINT PIERRE COGNET,,,,,FR,101,Hydro,Run-of-river,,,,44.87249,5.77319,17W100P100P0317G,Renewable energy,Hydro,,,,RTE
+SAINT-PIERRE,,,,,FR,122,Hydro,Run-of-river,,1983,,43.42801,4.88652,17W100P100P03299,Renewable energy,Hydro,,,,RTE
+SAUSSAZ,,,,,FR,145.4,Hydro,Run-of-river,,,,45.20992,6.47663,17W100P100P0309F,Renewable energy,Hydro,,,,RTE
+STRASBOURG,,,,,FR,147.8,Hydro,Run-of-river,,2016,,48.52561,7.79456,17W100P100P0308H,Renewable energy,Hydro,,,,RTE
+VALLABREGUES,,,,,FR,210,Hydro,Run-of-river,,1970,,43.82415,4.64349,17W100P100P0327D,Renewable energy,Hydro,,,,RTE
+VOGELGRUN,,,,,FR,140.5,Hydro,Run-of-river,,,,48.0203,7.57393,17W100P100P0311S,Renewable energy,Hydro,,,,RTE
+AIGLE,,,,,FR,360,Hydro,Reservoir,,,,45.24373,2.22483,17W100P100P0279Z,Renewable energy,Hydro,,,,RTE
+BATHIE,,,,,FR,592,Hydro,Reservoir,,,,45.68545,6.62249,17W100P100P0280D,Renewable energy,Hydro,,,Commissioning year not reported due to duplicate entries,RTE
+BORT,,,,,FR,235,Hydro,Reservoir,,,,45.41269,2.49862,17W100P100P0281B,Renewable energy,Hydro,,,,RTE
+BROMMAT,,,,,FR,406,Hydro,Reservoir,,,,44.76793,2.68415,17W100P100P02829,Renewable energy,Hydro,,,,RTE
+COMBE D'AVRIEUX,,,,,FR,123,Hydro,Reservoir,,,,45.21348,6.72053,17W100P100P02837,Renewable energy,Hydro,,,,RTE
+CURBANS,,,,,FR,139,Hydro,Reservoir,,,,44.42078,6.02016,17W100P100P02845,Renewable energy,Hydro,,,,RTE
+MALGOVERT,,,,,FR,297,Hydro,Reservoir,,,,45.61787,6.79074,17W100P100P02853,Renewable energy,Hydro,,,,RTE
+MONTEYNARD,,,,,FR,366,Hydro,Reservoir,,,,44.96118,5.68874,17W100P100P02861,Renewable energy,Hydro,,,,RTE
+MONTPEZAT,,,,,FR,131.8,Hydro,Reservoir,,,,44.69026,4.27215,17W100B100P0287S,Renewable energy,Hydro,,,,RTE
+ORAISON,,,,,FR,187,Hydro,Reservoir,,,,43.92101,5.92438,17W100P100P0288Y,Renewable energy,Hydro,,,,RTE
+PIED DE BORNE,,,,,FR,109.4,Hydro,Reservoir,,,,44.47198,3.98867,17W100P100P0289W,Renewable energy,Hydro,,,,RTE
+POUGET,,,,,FR,446.9,Hydro,Reservoir,,,,43.65604,3.40178,17W100P100P0290A,Renewable energy,Hydro,,,,RTE
+PRAGNERES,,,,,FR,189.2,Hydro,Reservoir,,,,42.8211,0.01033,17W100P100P02918,Renewable energy,Hydro,,,,RTE
+SAINT CHAMAS,,,,,FR,159,Hydro,Reservoir,,,,43.52741,5.07342,17W100P100P0296Z,Renewable energy,Hydro,,,,RTE
+SAINT ESTEVE,,,,,FR,141,Hydro,Reservoir,,,,43.69049,5.38489,17W100P100P0298V,Renewable energy,Hydro,,,,RTE
+SAINT GUILLERME,,,,,FR,116,Hydro,Reservoir,,,,45.03048,6.07914,17W100P100P0299T,Renewable energy,Hydro,,,,RTE
+SAINTE CROIX,,,,,FR,132.3,Hydro,Reservoir,,,,43.73687,6.13423,17W100P100P0297X,Renewable energy,Hydro,,,,RTE
+SARRANS,,,,,FR,183,Hydro,Reservoir,,,,44.82942,2.74042,17W100P100P02934,Renewable energy,Hydro,,,,RTE
+SERRE PONCON,,,,,FR,384,Hydro,Reservoir,,,,44.47095,6.26967,17W100P100P02926,Renewable energy,Hydro,,,,RTE
+SISTERON,,,,,FR,240,Hydro,Reservoir,,2017,,44.17517,5.95215,17W100P100P02942,Renewable energy,Hydro,,,,RTE
+ST ETIENNE CANTALES,,,,,FR,103.3,Hydro,Reservoir,,2016,,44.94516,2.21906,17W100P100P02950,Renewable energy,Hydro,,,,RTE
+VILLARODIN,,,,,FR,357,Hydro,Reservoir,,,,45.21466,6.71208,17W100P100P0300X,Renewable energy,Hydro,,,,RTE
+VOUGLANS,,,,,FR,285,Hydro,Reservoir,,,,46.39734,5.66556,17W100P100P0301V,Renewable energy,Hydro,,,,RTE
+BELLEVILLE 1,,,,,FR,1310,Nuclear,Steam turbine,,,,47.50879,2.87574,17W100P100P01857,Nuclear,,,,,RTE
+BELLEVILLE 2,,,,,FR,1310,Nuclear,Steam turbine,,,,47.50879,2.87574,17W100P100P01865,Nuclear,,,,,RTE
+BLAYAIS 1,,,,,FR,910,Nuclear,Steam turbine,,,,45.25742,-0.69065,17W100P100P01776,Nuclear,,,,,RTE
+BLAYAIS 2,,,,,FR,910,Nuclear,Steam turbine,,,,45.25742,-0.69065,17W100P100P01784,Nuclear,,,,,RTE
+BLAYAIS 3,,,,,FR,910,Nuclear,Steam turbine,,,,45.25742,-0.69065,17W100P100P01792,Nuclear,,,,,RTE
+BLAYAIS 4,,,,,FR,910,Nuclear,Steam turbine,,,,45.25742,-0.69065,17W100P100P0180H,Nuclear,,,,,RTE
+BUGEY 2,,,,,FR,910,Nuclear,Steam turbine,,,,45.80141,5.26614,17W100P100P0181F,Nuclear,,,,,RTE
+BUGEY 3,,,,,FR,910,Nuclear,Steam turbine,,,,45.80141,5.26614,17W100P100P0182D,Nuclear,,,,,RTE
+BUGEY 4,,,,,FR,880,Nuclear,Steam turbine,,,,45.80141,5.26614,17W100P100P0183B,Nuclear,,,,,RTE
+BUGEY 5,,,,,FR,880,Nuclear,Steam turbine,,,,45.80141,5.26614,17W100P100P01849,Nuclear,,,,,RTE
+CATTENOM 1,,,,,FR,1300,Nuclear,Steam turbine,,,,49.41579,6.2181,17W100P100P01873,Nuclear,,,,,RTE
+CATTENOM 2,,,,,FR,1300,Nuclear,Steam turbine,,,,49.41579,6.2181,17W100P100P01881,Nuclear,,,,,RTE
+CATTENOM 3,,,,,FR,1300,Nuclear,Steam turbine,,,,49.41579,6.2181,17W100B100P0189S,Nuclear,,,,,RTE
+CATTENOM 4,,,,,FR,1300,Nuclear,Steam turbine,,,,49.41579,6.2181,17W100P100P0190E,Nuclear,,,,,RTE
+CHINON 1,,,,,FR,905,Nuclear,Steam turbine,,,,47.22856,0.16824,17W100P100P0191C,Nuclear,,,,,RTE
+CHINON 2,,,,,FR,905,Nuclear,Steam turbine,,,,47.22856,0.16824,17W100P100P0192A,Nuclear,,,,,RTE
+CHINON 3,,,,,FR,905,Nuclear,Steam turbine,,,,47.22856,0.16824,17W100P100P01938,Nuclear,,,,,RTE
+CHINON 4,,,,,FR,905,Nuclear,Steam turbine,,,,47.22856,0.16824,17W100P100P01946,Nuclear,,,,,RTE
+CHOOZ 1,,,,,FR,1500,Nuclear,Steam turbine,,,,50.09136,4.79242,17W100P100P01954,Nuclear,,,,,RTE
+CHOOZ 2,,,,,FR,1500,Nuclear,Steam turbine,,,,50.09136,4.79242,17W100P100P01962,Nuclear,,,,,RTE
+CIVAUX 1,,,,,FR,1495,Nuclear,Steam turbine,,,,46.45614,0.6524,17W100P100P01970,Nuclear,,,,,RTE
+CIVAUX 2,,,,,FR,1495,Nuclear,Steam turbine,,,,46.45614,0.6524,17W100P100P0198Z,Nuclear,,,,,RTE
+CRUAS 1,,,,,FR,915,Nuclear,Steam turbine,,,,44.63251,4.75105,17W100P100P0199X,Nuclear,,,,,RTE
+CRUAS 2,,,,,FR,915,Nuclear,Steam turbine,,,,44.63251,4.75105,17W100P100P02000,Nuclear,,,,,RTE
+CRUAS 3,,,,,FR,915,Nuclear,Steam turbine,,,,44.63251,4.75105,17W100P100P0201Z,Nuclear,,,,,RTE
+CRUAS 4,,,,,FR,915,Nuclear,Steam turbine,,,,44.63251,4.75105,17W100P100P0202X,Nuclear,,,,,RTE
+DAMPIERRE 1,,,,,FR,890,Nuclear,Steam turbine,,,,47.73252,2.51772,17W100P100P0203V,Nuclear,,,,,RTE
+DAMPIERRE 2,,,,,FR,890,Nuclear,Steam turbine,,,,47.73252,2.51772,17W100P100P0204T,Nuclear,,,,,RTE
+DAMPIERRE 3,,,,,FR,890,Nuclear,Steam turbine,,,,47.73252,2.51772,17W100P100P0205R,Nuclear,,,,,RTE
+DAMPIERRE 4,,,,,FR,890,Nuclear,Steam turbine,,,,47.73252,2.51772,17W100P100P0206P,Nuclear,,,,,RTE
+FESSENHEIM 1,,,,,FR,880,Nuclear,Steam turbine,,,,47.90303,7.56308,17W100P100P0207N,Nuclear,,,,,RTE
+FESSENHEIM 2,,,,,FR,880,Nuclear,Steam turbine,,,,47.90303,7.56308,17W100P100P0208L,Nuclear,,,,,RTE
+FLAMANVILLE 1,,,,,FR,1330,Nuclear,Steam turbine,,,,49.53671,-1.88229,17W100P100P0209J,Nuclear,,,,,RTE
+FLAMANVILLE 2,,,,,FR,1330,Nuclear,Steam turbine,,,,49.53671,-1.88229,17W100P100P0210Y,Nuclear,,,,,RTE
+GOLFECH 1,,,,,FR,1310,Nuclear,Steam turbine,,,,44.10479,0.84606,17W100P100P0211W,Nuclear,,,,,RTE
+GOLFECH 2,,,,,FR,1310,Nuclear,Steam turbine,,,,44.10479,0.84606,17W100P100P0212U,Nuclear,,,,,RTE
+GRAVELINES 1,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0213S,Nuclear,,,,,RTE
+GRAVELINES 2,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0214Q,Nuclear,,,,,RTE
+GRAVELINES 3,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0215O,Nuclear,,,,,RTE
+GRAVELINES 4,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0216M,Nuclear,,,,,RTE
+GRAVELINES 5,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0217K,Nuclear,,,,,RTE
+GRAVELINES 6,,,,,FR,910,Nuclear,Steam turbine,,,,51.01267,2.13956,17W100P100P0218I,Nuclear,,,,,RTE
+NOGENT 1,,,,,FR,1310,Nuclear,Steam turbine,,,,48.5153,3.51776,17W100P100P0219G,Nuclear,,,,,RTE
+NOGENT 2,,,,,FR,1310,Nuclear,Steam turbine,,,,48.5153,3.51776,17W100P100P0220V,Nuclear,,,,,RTE
+PALUEL 1,,,,,FR,1330,Nuclear,Steam turbine,,,,49.85838,0.63449,17W100P100P0221T,Nuclear,,,,,RTE
+PALUEL 2,,,,,FR,1330,Nuclear,Steam turbine,,,,49.85838,0.63449,17W100P100P0222R,Nuclear,,,,,RTE
+PALUEL 3,,,,,FR,1330,Nuclear,Steam turbine,,,,49.85838,0.63449,17W100P100P0223P,Nuclear,,,,,RTE
+PALUEL 4,,,,,FR,1330,Nuclear,Steam turbine,,,,49.85838,0.63449,17W100P100P0224N,Nuclear,,,,,RTE
+PENLY 1,,,,,FR,1330,Nuclear,Steam turbine,,,,49.97599,1.21025,17W100P100P0225L,Nuclear,,,,,RTE
+PENLY 2,,,,,FR,1330,Nuclear,Steam turbine,,,,49.97599,1.21025,17W100P100P0226J,Nuclear,,,,,RTE
+ST ALBAN 1,,,,,FR,1335,Nuclear,Steam turbine,,,,45.40523,4.75527,17W100P100P0227H,Nuclear,,,,,RTE
+ST ALBAN 2,,,,,FR,1335,Nuclear,Steam turbine,,,,45.40523,4.75527,17W100P100P0228F,Nuclear,,,,,RTE
+ST LAURENT 1,,,,,FR,915,Nuclear,Steam turbine,,,,47.72006,1.58009,17W100P100P0229D,Nuclear,,,,,RTE
+ST LAURENT 2,,,,,FR,915,Nuclear,Steam turbine,,,,47.72006,1.58009,17W100P100P0230S,Nuclear,,,,,RTE
+TRICASTIN 1,,,,,FR,915,Nuclear,Steam turbine,,,,44.32906,4.72605,17W100P100P0231Q,Nuclear,,,,,RTE
+TRICASTIN 2,,,,,FR,915,Nuclear,Steam turbine,,,,44.32906,4.72605,17W100P100P0232O,Nuclear,,,,,RTE
+TRICASTIN 3,,,,,FR,915,Nuclear,Steam turbine,,,,44.32906,4.72605,17W100P100P0233M,Nuclear,,,,,RTE
+TRICASTIN 4,,,,,FR,915,Nuclear,Steam turbine,,,,44.32906,4.72605,17W100P100P0234K,Nuclear,,,,,RTE
